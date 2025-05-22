@@ -1,6 +1,6 @@
 # Restorant Sipariş Sistemi (Java)
 
-Bu proje, Java ve Swing kullanılarak geliştirilmiş basit bir restoran sipariş sistemidir.  
+Bu projede, Java ve Swing kullanılarak geliştirilmiş basit bir restoran sipariş sistemi yaptım.  
 Kullanıcı giriş ekranı, menü görüntüleme ve sipariş verme gibi temel işlevleri içerir.  
 Veritabanı bağlantısı sayesinde siparişler kaydedilebilir.
 
